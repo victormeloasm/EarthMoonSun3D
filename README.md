@@ -3,10 +3,7 @@
 This repository contains a Solar System simulation implemented in MATLAB. The simulation visualizes the Sun, Earth, and Moon in 3D space, showcasing their relative positions and movements.
 
 
-![Screenshot_1](https://github.com/victormeloasm/EarthMoonSun3D/assets/15617527/82b9a64f-d304-4268-91fb-a7dbc453c0a8)
-
-
-[![Video](https://img.youtube.com/vi/tG6gWYI4xiE/0.jpg)](https://youtu.be/tG6gWYI4xiE)
+![Solar System Animation](solar_system_animation.gif)
 
 
 
